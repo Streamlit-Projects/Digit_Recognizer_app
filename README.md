@@ -2,7 +2,7 @@
 Digit recognizer app. The app is using machine learning to predict digits. Built in streamlit by using python and plotly to visualise data.
 
 #### Demo
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_white.svg)]()
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_white.svg)](https://mbohunickacharles-streamlit-digit-recognizer-app-app-ltqofn.streamlit.app/)
 
 #### Screenshot
 
